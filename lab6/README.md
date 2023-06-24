@@ -1,2 +1,2 @@
 ﻿### Розрахунок оцінок проекту
-![Screenshot_1](https://github.com/Denyss-stack/All_labs/assets/94934331/6c6248a4-0e4d-433e-82f0-b6547a298e76)
+![image](https://github.com/Denyss-stack/All_labs/assets/94934331/a108b730-3e61-4902-964d-29c21b797046)
